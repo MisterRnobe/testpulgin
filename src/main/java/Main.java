@@ -8,5 +8,9 @@ public class Main {
     {
         System.out.println("Foo was called");
     }
+    public static void doStuff()
+    {
+        System.out.println("Doing some stuff!");
+    }
 
 }
