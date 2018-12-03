@@ -4,7 +4,7 @@
 
     <groupId>org.medvedev</groupId>
     <artifactId>test-pulgin</artifactId>
-    <version>0.0.6</version>
+    <version>0.0.7-SNAPSHOT</version>
     <build>
         <plugins>
             <plugin>
