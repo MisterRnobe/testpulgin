@@ -8,8 +8,5 @@ public class Main {
     {
         System.out.println("Foo was called");
     }
-    public static void foo()
-    {
-        System.out.println("GG WP!");
-    }
+
 }
